@@ -23,4 +23,8 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Boobalan2006/Leetcode_Problems/tree/master/0217-contains-duplicate) |
+## Database
+|  |
+| ------- |
+| [0577-employee-bonus](https://github.com/Boobalan2006/Leetcode_Problems/tree/master/0577-employee-bonus) |
 <!---LeetCode Topics End-->
