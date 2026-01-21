@@ -26,6 +26,7 @@
 ## Database
 |  |
 | ------- |
+| [0178-rank-scores](https://github.com/Boobalan2006/Leetcode_Problems/tree/master/0178-rank-scores) |
 | [0185-department-top-three-salaries](https://github.com/Boobalan2006/Leetcode_Problems/tree/master/0185-department-top-three-salaries) |
 | [0262-trips-and-users](https://github.com/Boobalan2006/Leetcode_Problems/tree/master/0262-trips-and-users) |
 | [0577-employee-bonus](https://github.com/Boobalan2006/Leetcode_Problems/tree/master/0577-employee-bonus) |
