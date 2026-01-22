@@ -44,5 +44,6 @@
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Boobalan2006/Leetcode_Problems/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1070-product-sales-analysis-iii](https://github.com/Boobalan2006/Leetcode_Problems/tree/master/1070-product-sales-analysis-iii) |
 | [1084-sales-analysis-iii](https://github.com/Boobalan2006/Leetcode_Problems/tree/master/1084-sales-analysis-iii) |
+| [1141-user-activity-for-the-past-30-days-i](https://github.com/Boobalan2006/Leetcode_Problems/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1484-group-sold-products-by-the-date](https://github.com/Boobalan2006/Leetcode_Problems/tree/master/1484-group-sold-products-by-the-date) |
 <!---LeetCode Topics End-->
