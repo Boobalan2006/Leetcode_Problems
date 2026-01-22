@@ -61,4 +61,5 @@
 | [1393-capital-gainloss](https://github.com/Boobalan2006/Leetcode_Problems/tree/master/1393-capital-gainloss) |
 | [1484-group-sold-products-by-the-date](https://github.com/Boobalan2006/Leetcode_Problems/tree/master/1484-group-sold-products-by-the-date) |
 | [1527-patients-with-a-condition](https://github.com/Boobalan2006/Leetcode_Problems/tree/master/1527-patients-with-a-condition) |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Boobalan2006/Leetcode_Problems/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 <!---LeetCode Topics End-->
