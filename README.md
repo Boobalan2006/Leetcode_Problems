@@ -53,5 +53,6 @@
 | [1193-monthly-transactions-i](https://github.com/Boobalan2006/Leetcode_Problems/tree/master/1193-monthly-transactions-i) |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/Boobalan2006/Leetcode_Problems/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1251-average-selling-price](https://github.com/Boobalan2006/Leetcode_Problems/tree/master/1251-average-selling-price) |
+| [1280-students-and-examinations](https://github.com/Boobalan2006/Leetcode_Problems/tree/master/1280-students-and-examinations) |
 | [1484-group-sold-products-by-the-date](https://github.com/Boobalan2006/Leetcode_Problems/tree/master/1484-group-sold-products-by-the-date) |
 <!---LeetCode Topics End-->
