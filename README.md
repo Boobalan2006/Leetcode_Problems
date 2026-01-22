@@ -58,5 +58,6 @@
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Boobalan2006/Leetcode_Problems/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1341-movie-rating](https://github.com/Boobalan2006/Leetcode_Problems/tree/master/1341-movie-rating) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Boobalan2006/Leetcode_Problems/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+| [1393-capital-gainloss](https://github.com/Boobalan2006/Leetcode_Problems/tree/master/1393-capital-gainloss) |
 | [1484-group-sold-products-by-the-date](https://github.com/Boobalan2006/Leetcode_Problems/tree/master/1484-group-sold-products-by-the-date) |
 <!---LeetCode Topics End-->
