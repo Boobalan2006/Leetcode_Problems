@@ -49,5 +49,6 @@
 | [1158-market-analysis-i](https://github.com/Boobalan2006/Leetcode_Problems/tree/master/1158-market-analysis-i) |
 | [1164-product-price-at-a-given-date](https://github.com/Boobalan2006/Leetcode_Problems/tree/master/1164-product-price-at-a-given-date) |
 | [1174-immediate-food-delivery-ii](https://github.com/Boobalan2006/Leetcode_Problems/tree/master/1174-immediate-food-delivery-ii) |
+| [1179-reformat-department-table](https://github.com/Boobalan2006/Leetcode_Problems/tree/master/1179-reformat-department-table) |
 | [1484-group-sold-products-by-the-date](https://github.com/Boobalan2006/Leetcode_Problems/tree/master/1484-group-sold-products-by-the-date) |
 <!---LeetCode Topics End-->
